@@ -4,7 +4,7 @@
   "description": "Displays issue where Webstorm shows error, but TSC does not",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc index.ts mailinglistitem.ts types.ts typings/tsd.d.ts --module commonjs"
   },
   "repository": {
     "type": "git",

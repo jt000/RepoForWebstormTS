@@ -7,6 +7,9 @@
   "installed": {
     "mongoose/mongoose.d.ts": {
       "commit": "9872b853d6facd11ab4eba733b2408e249d85082"
+    },
+    "node/node.d.ts": {
+      "commit": "9872b853d6facd11ab4eba733b2408e249d85082"
     }
   }
 }
