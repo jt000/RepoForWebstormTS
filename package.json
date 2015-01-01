@@ -1,0 +1,22 @@
+{
+  "name": "RepoForWebstormTS",
+  "version": "1.0.0",
+  "description": "Displays issue where Webstorm shows error, but TSC does not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jt000/RepoForWebstormTS.git"
+  },
+  "author": "jt000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jt000/RepoForWebstormTS/issues"
+  },
+  "homepage": "https://github.com/jt000/RepoForWebstormTS",
+  "dependencies": {
+    "mongoose": "^3.8.21"
+  }
+}
